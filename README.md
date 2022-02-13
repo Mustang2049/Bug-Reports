@@ -11,3 +11,5 @@
   <img align="center" src="https://user-images.githubusercontent.com/20248750/153722369-b73f61eb-f878-4201-8bdc-239e6ed7033b.png"/><br/>
   <img align="center" src="https://user-images.githubusercontent.com/20248750/153722249-85e8e204-1df7-429f-83c6-028ba48c5a61.png"/><br/>
 </p>
+
+This is NOT the official page, this is just my fork; go to the original repository to submit bug reports
